@@ -7,7 +7,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on [Free Game Tracker](https://github.com/rishavanand/free-game-tracker)
+- 🔭 I’m currently working on [Free Game Tracker](https://github.com/marcodamianperez/free-game-tracker)
 - 🌱 I’m currently learning React and NextJs
 - 🍕 Fun fact: I like pineapple on pizza
 
