@@ -7,9 +7,10 @@
 
 <br/>
 
-- 🔭 I’m currently working on [Free Game Tracker](https://github.com/marcodamianperez/free-game-tracker)
-- 🌱 I’m currently learning React and NextJs
-- 🍕 Fun fact: I like pineapple on pizza
+- 👉 Take a look at [My Portfolio](https://marcodamianperez.github.io/)
+- 👾 I’m currently working on [Free Game Tracker](https://github.com/marcodamianperez/free-game-tracker)
+- 🔥 Learning React and Redux
+- 🍕 Fun fact: I love pineapple on pizza
 
 <br/>
 
