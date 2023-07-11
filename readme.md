@@ -8,6 +8,7 @@
 <br/>
 
 - 👉 Take a look at [My Portfolio](https://marcodamianperez.github.io/)
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/marcodamianperez/)
 - 👾 I’m currently working on [Free Game Tracker](https://github.com/marcodamianperez/free-game-tracker)
 - 🔥 Learning React and Redux
 - 🍕 Fun fact: I love pineapple on pizza
