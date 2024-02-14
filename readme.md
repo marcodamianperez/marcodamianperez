@@ -10,22 +10,18 @@
 - 👉 Take a look at [My Portfolio](https://marcodamianperez.github.io/)
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/marcodamianperez/)
 - 👾 I’m currently working on [Free Game Tracker](https://github.com/marcodamianperez/free-game-tracker)
-- 🔥 Learning React and Redux
 - 🍕 Fun fact: I love pineapple on pizza
 
 <br/>
 
 ## 💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,jest,react,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,jest,react,nodejs,express,mongodb,git,figma)](https://skillicons.dev)
 
 <br/>  
 
 
 ## ❤️ Connect with me  
-<a href="https://github.com/marcodamianperez" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://twitter.com/marcodamianp" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
